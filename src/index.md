@@ -3,7 +3,7 @@ title: my page
 lang: en-US
 ---
 
-# Welcome
+# Top page
 
 ## こちらは北畑淳也のマイページです。
 
