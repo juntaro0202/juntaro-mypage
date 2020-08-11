@@ -1,7 +1,5 @@
 module.exports = {
   title: "example title",
-};
-module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
