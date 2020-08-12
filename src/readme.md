@@ -2,9 +2,9 @@
 title: My profile
 meta:
   - name: description
-    content: 自己消化サイト
+    content: 自己紹介サイト
 ---
 
-## すごい見出し
+## ようこそ
 
-すごい内容
+このページでは私の活動について記載させていただきます。
