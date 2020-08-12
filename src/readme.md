@@ -1,8 +1,8 @@
 ---
-title: すごいドキュメント
+title: My profile
 meta:
   - name: description
-    content: すごい説明
+    content: 自己消化サイト
 ---
 
 ## すごい見出し
