@@ -1,5 +1,5 @@
 ---
-title: すごいドキュメント
+title: My profile
 meta:
   - name: description
     content: すごい説明
