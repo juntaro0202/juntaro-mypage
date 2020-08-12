@@ -1,5 +1,5 @@
 module.exports = {
-  title: "My profile",
+  title: "じゅんちゃん official site",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
