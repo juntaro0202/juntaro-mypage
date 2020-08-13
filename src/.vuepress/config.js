@@ -1,9 +1,14 @@
 module.exports = {
-  title: "じゅんちゃん official site",
+  markdown: {
+    extendMarkdown: (md) => {
+      md.set({ breaks: true });
+    },
+  },
+  title: "official site",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
+      { text: "Contact", link: "/contact/" },
       {
         text: "Youtube",
         link:
